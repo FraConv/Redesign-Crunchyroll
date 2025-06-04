@@ -19,7 +19,7 @@ function Home(){
           title: "Frieren",
           Episodio: "Episodio 8",
           Sub: "Sub | Dub",
-          link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+          link:"",
         },
         {
             index: 2,
@@ -27,7 +27,7 @@ function Home(){
           title: "Tower of God",
           Episodio: "Episodio 2",
           Sub: "Sub | Dub",
-          link:"https://www.animeclick.it/anime/41312/lycoris-recoil",
+          link:"",
         },
         {
             index: 3,
@@ -35,7 +35,7 @@ function Home(){
           title: "Black Clover",
           Episodio: "Episodio 20",
           Sub: "Sub | Dub",
-          link:"https://www.animeclick.it/anime/8974/re-zero-kara-hajimeru-isekai-seikatsu",
+          link:"",
         },
         {
             index: 4,
@@ -43,7 +43,7 @@ function Home(){
             title: "Spy X Family",
             Episodio: "Episodio 13",
             Sub: "Sub | Dub",
-            link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+            link:"",
           },
           {
             index: 5,
@@ -51,7 +51,7 @@ function Home(){
             title: "Licoris Recoil",
             Episodio: "Episodio 6",
             Sub: "Sub | Dub",
-            link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+            link:"",
           },
       ];
     
@@ -62,7 +62,7 @@ function Home(){
           title: "Shangri La Frontier",
           Episodio: "Episodio 21",
           Sub: "Sub | Dub",
-          link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+          link:"",
         },
         {
             index: 2,
@@ -70,7 +70,7 @@ function Home(){
           title: "Set 2 - Card 2",
           Episodio: "Episodio 11",
           Sub: "Sub | Dub",
-          link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+          link:"",
         },
         {
             index: 3,
@@ -78,7 +78,7 @@ function Home(){
           title: "Set 2 - Card 3",
           Episodio: "Episodio 10",
           Sub: "Sub | Dub",
-          link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+          link:"",
         },
         {
           index: 4,
@@ -86,7 +86,7 @@ function Home(){
         title: "Set 2 - Card 1",
         Episodio: "Episodio 3",
         Sub: "Sub | Dub",
-        link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+        link:"",
       },
       {
           index: 5,
@@ -94,7 +94,7 @@ function Home(){
         title: "Set 2 - Card 2",
         Episodio: "Episodio 1",
         Sub: "Sub | Dub",
-        link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+        link:"",
       },
       {
           index: 6,
@@ -102,7 +102,7 @@ function Home(){
         title: "Set 2 - Card 3",
         Episodio: "Episodio 21",
         Sub: "Sub | Dub",
-        link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+        link:"",
       },
       {
         index: 7,
@@ -110,7 +110,7 @@ function Home(){
       title: "Set 2 - Card 1",
       Episodio: "Episodio 7",
       Sub: "Sub | Dub",
-      link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+      link:"",
     },
     {
         index: 8,
@@ -118,7 +118,7 @@ function Home(){
       title: "Set 2 - Card 2",
       Episodio: "Episodio 16",
       Sub: "Sub | Dub",
-      link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+      link:"",
     },
     {
         index: 9,
@@ -126,7 +126,7 @@ function Home(){
       title: "Set 2 - Card 3",
       Episodio: "Episodio 18",
       Sub: "Sub | Dub",
-      link:"https://www.youtube.com/watch?v=lRQi4qp8aHI",
+      link:"",
     },
         
     ];
